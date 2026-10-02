@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://indosukseslogistik.com'),
 
   title: {
-    default: 'PT Indo Sukses Logistik â€” Depo Container & Cold Storage Tanjung Priok',
+    default: 'PT Indo Sukses Logistik',
     template: '%s | PT Indo Sukses Logistik',
   },
 
