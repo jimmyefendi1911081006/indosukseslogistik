@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /_next/
+Disallow: /api/
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 3
+
+Sitemap: https://indosukseslogistik.com/sitemap.xml
