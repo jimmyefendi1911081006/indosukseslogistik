@@ -49,8 +49,8 @@ const nextConfig: NextConfig = {
             value: 'nosniff',
           },
           {
-            key: 'X-Frame-Options',
-            value: 'SAMEORIGIN',
+            key: 'Content-Security-Policy',
+            value: "frame-ancestors 'self' https://jenetix.id https://*.jenetix.id",
           },
           {
             key: 'Referrer-Policy',
