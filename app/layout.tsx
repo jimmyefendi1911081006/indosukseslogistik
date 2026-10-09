@@ -63,7 +63,7 @@ export const metadata: Metadata = {
   },
 
   openGraph: {
-    title: 'PT Indo Sukses Logistik â€” Depo Container & Cold Storage Tanjung Priok',
+    title: 'PT Indo Sukses Logistik | Depo Container & Cold Storage Tanjung Priok',
     description:
       'Infrastruktur logistik terintegrasi: Depo Halal Hub, Cold Storage 13.400 pallet, Customs Clearance 24/7, Armada Darat & Laut. Jl. Sulawesi No 1, Tanjung Priok, Jakarta Utara.',
     url: 'https://indosukseslogistik.com',
@@ -75,7 +75,7 @@ export const metadata: Metadata = {
         url: '/ISL_logo.png',
         width: 1200,
         height: 630,
-        alt: 'PT Indo Sukses Logistik â€” Solusi Logistik Terintegrasi Tanjung Priok',
+        alt: 'PT Indo Sukses Logistik | Solusi Logistik Terintegrasi Tanjung Priok',
         type: 'image/png',
       },
     ],
@@ -83,7 +83,7 @@ export const metadata: Metadata = {
 
   twitter: {
     card: 'summary_large_image',
-    title: 'PT Indo Sukses Logistik â€” Depo Container & Cold Storage Tanjung Priok',
+    title: 'PT Indo Sukses Logistik | Depo Container & Cold Storage Tanjung Priok',
     description:
       'Depo Halal Hub, Cold Storage 13.400 pallet, Customs 24/7, Ocean Freight. Tanjung Priok & Bekasi.',
     images: ['/ISL_logo.png'],
